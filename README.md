@@ -1,2 +1,6 @@
-# ConversorAlura2
-trabajo ver 2 conversor
+
+# proyecto
+
+Este es un proyecto Java, que permite convertir monedas 
+
+
